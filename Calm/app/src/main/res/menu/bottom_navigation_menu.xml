@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/nav_ZonaActiva"
+        android:icon="@drawable/zonaactiva_image"
+        android:title="Zona Activa" />
+
+    <item
+        android:id="@+id/nav_Diario"
+        android:icon="@drawable/usuarios_image"
+        android:title="Usuarios" />
+
+    <item
+        android:id="@+id/nav_EspacioTerapeutico"
+        android:icon="@drawable/perfil_image"
+        android:title="Perfil" />
+
+</menu>
