@@ -1,6 +1,16 @@
-# AplicacionCalm
+# Proyecto Calm
 
 Este proyecto es una aplicacion para telefonos celulares que tiene como objetivo ayudar a pacientes de aquellos psicologos que utilicen nuestra aplicacion
+
+# Desarrolladores
+
+Felipe Acevedo
+
+Alvaro Marin
+
+Erick Soto
+
+Marcelo Reyes
 
 # Como Iniciar la pagina
 1.- se debe descargar el proyecto como archivo zip
